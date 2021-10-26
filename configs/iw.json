@@ -1,0 +1,126 @@
+{
+	"is_server_down": false,
+	"app_version": "21.10.24.01",
+	"app_url": "https://github.com/p0c07/Files/blob/main/IW-21102401.apk?raw=true",
+	"base_url": "https://tfc.tv",
+	"login_url": "https://tfc.tv/user/login",
+	"episodes_url": "https://img.tfc.tv/prod-feed/eplist/o/feed-{showID}.json?v={date}",
+	"media_url": "https://tfc.tv/media/fetch",
+	"hearbeat_url": "https://tfc.tv/method/heartbeat",
+	"search_url": "https://4nzqf4xnoy-dsn.algolia.net/1/indexes/TFC_Shows/query?x-algolia-agent=Algolia%20for%20JavaScript%20(3.33.0)%3B%20Browser&x-algolia-application-id=4NZQF4XNOY&x-algolia-api-key=5202157d4d6c20703dec4925c53122a6",
+	"initial_page": "TV CHANNELS",
+	"account": {
+		"username": "asusdeguzman@gmail.com",
+		"password": "Test2021!"
+	},
+	"accounts": {
+		"IW097c523b7e1eef11": {
+			"expiration": null,
+			"name": "Elisa Vasquez-Cielo",
+			"password": "Test2021!",
+			"username": "5yalhwy119b@freeallapp.com"
+		},
+		"IW84d98db3caf6dd6a": {
+			"expiration": "2021-11-04T09:34:46.965-05:00",
+			"name": "GENER TV",
+			"password": "Test2021!",
+			"username": "7rusia777y@agung001.com"
+		},
+		"IW493047c179e807d8": {
+			"expiration": "2021-11-07T11:15:32.056-06:00",
+			"name": "Gener Garcia",
+			"password": "Test2021!",
+			"username": "ealja@emvil.com"
+		},
+		"IW938f5e439c7fff98": {
+			"expiration": null,
+			"name": "JayAr",
+			"password": "Test2021!",
+			"username": "keliza@vicceo.com"
+		},
+		"IW7878f4e77ab19fe9": {
+			"expiration": null,
+			"name": "Meryll de Guzman",
+			"password": "Test2021!",
+			"username": "omahraz.am@bambase.com"
+		},
+		"IW274235576a5683ec": {
+			"expiration": "2021-10-27T12:16:49.222-05:00",
+			"name": "JC TV",
+			"password": "Test2021!",
+			"username": "hale@netjex.xyz"
+		},
+		"IW2ef53e827400917b": {
+			"expiration": null,
+			"name": "MiBox TV",
+			"password": "Joelreyn22",
+			"username": "mymibox22@gmail.com"
+		},
+		"IWf9011d2e64bae1f6": {
+			"expiration": null,
+			"name": "KathRick",
+			"password": "Test2021!",
+			"username": "vnoble.sabo1u@irontruth.xyz"
+		},
+		"IWeb36ffd4d2500f69": {
+			"expiration": null,
+			"name": "Asus",
+			"password": "",
+			"username": ""
+		},
+		"IW8ce2eb007f1989e5": {
+			"expiration": null,
+			"name": "ALYSSA TV",
+			"password": "Test2021!",
+			"username": "1pravanjan.pradh6@fb2al.site"
+		},
+		"IW612aa763d9e50a64": {
+			"expiration": null,
+			"name": "Ramil Baon",
+			"password": "Ramil1996",
+			"username": "p0c0.ph0n37@gmail.com"
+		},
+		"IWeeb8765af14dda12": {
+			"expiration": null,
+			"name": "Phia Vasquez",
+			"password": "Test2021!",
+			"username": "mark.ashton@bookw.site"
+		},
+		"IW0b7bdfb783945c82": {
+			"expiration": null,
+			"name": "Pathrick",
+			"password": "Test2021!",
+			"username": "famin.r@freeallapp.com"
+		},
+		"IW48c14ae78c047c7f": {
+			"expiration": null,
+			"name": "MJ Deguzman",
+			"password": "Test2021!",
+			"username": "mary.dg@halumail.com"
+		},
+		"IW6a1c1f5fd83137eb": {
+			"expiration": "2021-10-31T22:43:16.52-05:00",
+			"name": "GILLIAN TV",
+			"password": "Test2021!",
+			"username": "zrimeangelom@j9ysy.com"
+		},
+		"IW5fbaa1e5642d83c9": {
+			"expiration": null,
+			"name": "Raquel Mendoza",
+			"password": "Test2021!",
+			"username": "rocky001@booksp.site"
+		},
+		"IWac9fca6bd7149408": {
+			"expiration": null,
+			"name": "RAMIL TV",
+			"password": "Ramil1996",
+			"username": "p0c0.ph0n37@gmail.com"
+		},
+		"IW4168dfff7d29619f": {
+			"expiration": "2021-10-27T12:16:37.676-05:00",
+			"name": "JC",
+			"password": "Test2021!",
+			"username": "gtimi@honghengs.com"
+		}
+	}
+}
