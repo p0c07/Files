@@ -1,0 +1,6 @@
+{
+	"IW": "http://mvidlog.somee.com/ConfigManagementTest/api/config?app=iw",
+	"FM": "http://mvidlog.somee.com/ConfigManagementTest/api/config?app=fm",
+	"CM": "http://mvidlog.somee.com/ConfigManagementTest/api/config?app=cm",
+	"VM": "http://mvidlog.somee.com/ConfigManagementTest/api/config?app=vm"
+}
