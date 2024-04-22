@@ -1,6 +1,0 @@
-{
-	"IW": "http://mvidlog.somee.com/ConfigManagement/api/config?app=iw",
-	"FM": "http://mvidlog.somee.com/ConfigManagement/api/config?app=fm",
-	"VI": "http://mvidlog.somee.com/ConfigManagement/api/config?app=vi",
-	"VM": "http://mvidlog.somee.com/ConfigManagement/api/config?app=vm"
-}
